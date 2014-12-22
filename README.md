@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-CHRIST IESVS Triumphant.A fruitefull Treatise, wherin is described the most glorious Triumph, and CoCHRIST TRIUMPHANT.Psal. 91.Thou shalt goe vpon the Lion and Adder: the young Lion, and the Dragon sh
+CHRIST TRIUMPHANT.Psal. 91.Thou shalt goe vpon the Lion and Adder: the young Lion, and the Dragon sh
 1. To the worshipfull M. William Kyllegrewe Gentleman of her Maiesties priuie Chamber, Grace, and Peace in Christ Jesus.
 
 1. To the Christian Reader, comfort in Christ Jesu.
@@ -87,55 +87,48 @@ There are 2 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__bibl__|2||
-|3.|__body__|1||
-|4.|__closer__|6||
-|5.|__desc__|2||
-|6.|__div__|10| @__type__ (10) : title_page (1), frontispiece (1), dedication (1), to_the_reader (1), treatise (1), prayer (4), colophon (1)|
-|7.|__epigraph__|1||
-|8.|__figure__|1||
-|9.|__front__|1||
-|10.|__g__|654| @__ref__ (654) : char:EOLhyphen (519), char:cmbAbbrStroke (134), char:EOLunhyphen (1)|
-|11.|__gap__|2| @__reason__ (2) : illegible: indecipherable (1), illegible: faint (1)  •  @__extent__ (2) : 1 letter (1), 2 words (1)|
-|12.|__head__|8||
-|13.|__hi__|446| @__rend__ (15) : sup (15)|
-|14.|__note__|71| @__place__ (71) : margin (71)|
-|15.|__p__|70||
-|16.|__pb__|80| @__facs__ (80) : tcp:17474:1 (2), tcp:17474:2 (2), tcp:17474:3 (2), tcp:17474:4 (2), tcp:17474:5 (2), tcp:17474:6 (2), tcp:17474:7 (2), tcp:17474:8 (2), tcp:17474:9 (2), tcp:17474:10 (2), tcp:17474:11 (2), tcp:17474:12 (2), tcp:17474:13 (2), tcp:17474:14 (2), tcp:17474:15 (2), tcp:17474:16 (2), tcp:17474:17 (2), tcp:17474:18 (2), tcp:17474:19 (2), tcp:17474:20 (2), tcp:17474:21 (2), tcp:17474:22 (2), tcp:17474:23 (2), tcp:17474:24 (2), tcp:17474:25 (2), tcp:17474:26 (2), tcp:17474:27 (2), tcp:17474:28 (2), tcp:17474:29 (2), tcp:17474:30 (2), tcp:17474:31 (2), tcp:17474:32 (2), tcp:17474:33 (2), tcp:17474:34 (2), tcp:17474:35 (2), tcp:17474:36 (2), tcp:17474:37 (2), tcp:17474:38 (2), tcp:17474:39 (2), tcp:17474:40 (2)  •  @__n__ (26) : 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1)|
-|17.|__q__|2||
-|18.|__seg__|4| @__rend__ (4) : decorInit (4)|
-|19.|__signed__|2||
-|20.|__trailer__|1||
+|1.|__bibl__|2||
+|2.|__closer__|6||
+|3.|__desc__|2||
+|4.|__div__|10| @__type__ (10) : title_page (1), frontispiece (1), dedication (1), to_the_reader (1), treatise (1), prayer (4), colophon (1)|
+|5.|__epigraph__|1||
+|6.|__figure__|1||
+|7.|__g__|654| @__ref__ (654) : char:EOLhyphen (519), char:cmbAbbrStroke (134), char:EOLunhyphen (1)|
+|8.|__gap__|2| @__reason__ (2) : illegible: indecipherable (1), illegible: faint (1)  •  @__extent__ (2) : 1 letter (1), 2 words (1)|
+|9.|__head__|8||
+|10.|__hi__|446| @__rend__ (15) : sup (15)|
+|11.|__note__|71| @__place__ (71) : margin (71)|
+|12.|__p__|70||
+|13.|__pb__|80| @__facs__ (80) : tcp:17474:1 (2), tcp:17474:2 (2), tcp:17474:3 (2), tcp:17474:4 (2), tcp:17474:5 (2), tcp:17474:6 (2), tcp:17474:7 (2), tcp:17474:8 (2), tcp:17474:9 (2), tcp:17474:10 (2), tcp:17474:11 (2), tcp:17474:12 (2), tcp:17474:13 (2), tcp:17474:14 (2), tcp:17474:15 (2), tcp:17474:16 (2), tcp:17474:17 (2), tcp:17474:18 (2), tcp:17474:19 (2), tcp:17474:20 (2), tcp:17474:21 (2), tcp:17474:22 (2), tcp:17474:23 (2), tcp:17474:24 (2), tcp:17474:25 (2), tcp:17474:26 (2), tcp:17474:27 (2), tcp:17474:28 (2), tcp:17474:29 (2), tcp:17474:30 (2), tcp:17474:31 (2), tcp:17474:32 (2), tcp:17474:33 (2), tcp:17474:34 (2), tcp:17474:35 (2), tcp:17474:36 (2), tcp:17474:37 (2), tcp:17474:38 (2), tcp:17474:39 (2), tcp:17474:40 (2)  •  @__n__ (26) : 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1)|
+|14.|__q__|2||
+|15.|__seg__|4| @__rend__ (4) : decorInit (4)|
+|16.|__signed__|2||
+|17.|__trailer__|1||
